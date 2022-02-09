@@ -32,6 +32,7 @@ Nesse projeto, você será capaz de:
 ## Instalação do projeto locamente
 
 Caso tenho alguma dificuldade com a instalação do projeto, me contate através do e-mail: brunocmoraes97@gmail.com.
+  
   1. Abra o terminal e crie um diretório local executando o comando abaixo:
   ```javascript
     mkdir all-for-one-brunocdeveloper-project
@@ -41,11 +42,10 @@ Caso tenho alguma dificuldade com a instalação do projeto, me contate através
     cd all-for-one-brunocdeveloper-project
     git clone git@github.com:brunocdeveloper/all-for-one-mysql-project.git
   ```
-  3. instale as depêndencias do projeto caso existam
-  ```javascript
-    npm install
-  ```
+  3. Faça o download do arquivo de backup [aqui](northwind.sql).
   4. Para rodar o projeto é necessário ter o  ```javascript MySql WorkBench``` instalado e configurado.
+  5. Rode o arquivo baixado cliquando no ícone de trovão do WorkBench.
+  6. Pronto, agora é só executar as queries.
   
 ## O que deverá ser desenvolvido
 
