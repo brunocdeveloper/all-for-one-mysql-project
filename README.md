@@ -1,4 +1,4 @@
-# Boas vindaos ao repositório do projeto all-for-one!
+# Boas vindas ao repositório do projeto all-for-one!
 
 # Habilidades
 Nesse projeto, você será capaz de:
