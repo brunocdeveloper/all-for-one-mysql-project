@@ -1,3 +1,5 @@
+# Boas vindaos ao repositório do projeto all-for-one!
+
 # Habilidades
 Nesse projeto, você será capaz de:
 
@@ -27,9 +29,27 @@ Nesse projeto, você será capaz de:
 
 ---
 
-# Entregáveis
+## Instalação do projeto locamente
 
+Caso tenho alguma dificuldade com a instalação do projeto, me contate através do e-mail: brunocmoraes97@gmail.com.
+  1. Abra o terminal e crie um diretório local executando o comando abaixo:
+  ```javascript
+    mkdir all-for-one-brunocdeveloper-project
+  ```
+  2. Entre no diretório criado e clone o projeto
+  ```javascript
+    cd all-for-one-brunocdeveloper-project
+    git clone git@github.com:brunocdeveloper/all-for-one-mysql-project.git
+  ```
+  3. instale as depêndencias do projeto caso existam
+  ```javascript
+    npm install
+  ```
+  4. Para rodar o projeto é necessário ter o  ```javascript MySql WorkBench``` instalado e configurado.
+  
 ## O que deverá ser desenvolvido
 
 Hoje você fará um projeto com o codinome *All For One* em que praticará todos os conceitos de SQL já ensinados até aqui. Porém, você vai usar um banco de dados totalmente diferente, então dê tchau para o `sakila` e dê boas vindas ao `Northwind`, que será usado neste projeto.
+
+
 
